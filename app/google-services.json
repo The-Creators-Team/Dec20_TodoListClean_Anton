@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "627228934047",
+    "project_id": "cleantodolistfb",
+    "storage_bucket": "cleantodolistfb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627228934047:android:dd3869855643640d7e07aa",
+        "android_client_info": {
+          "package_name": "com.creators.dec20_todolistclean_anton"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3LkXb6_I--EPJr1TmjKIoTalelrCZV5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
